@@ -89,13 +89,13 @@ body {
   margin: 5px;
   float: left;
 }
- 
 
- 
+
+
 .color-shape.red { background: red; }
 .color-shape.blue { background: blue; }
 .color-shape.yellow { background: yellow; }
- 
+
 .color-shape.width2{ width: 48%; }
 
 
